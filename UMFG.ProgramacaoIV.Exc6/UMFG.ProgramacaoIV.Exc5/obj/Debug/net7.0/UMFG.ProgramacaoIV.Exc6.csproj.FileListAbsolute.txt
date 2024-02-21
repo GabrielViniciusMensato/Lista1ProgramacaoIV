@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\ListaExcC#\UMFG.ProgramacaoIV.Exc5\UMFG.ProgramacaoIV.Exc5\bin\Debug\net7.0\UMFG.ProgramacaoIV.Exc6.exe
+C:\Users\gabri\Desktop\ListaExcC#\UMFG.ProgramacaoIV.Exc5\UMFG.ProgramacaoIV.Exc5\bin\Debug\net7.0\UMFG.ProgramacaoIV.Exc6.deps.json
+C:\Users\gabri\Desktop\ListaExcC#\UMFG.ProgramacaoIV.Exc5\UMFG.ProgramacaoIV.Exc5\bin\Debug\net7.0\UMFG.ProgramacaoIV.Exc6.runtimeconfig.json
+C:\Users\gabri\Desktop\ListaExcC#\UMFG.ProgramacaoIV.Exc5\UMFG.ProgramacaoIV.Exc5\bin\Debug\net7.0\UMFG.ProgramacaoIV.Exc6.dll
+C:\Users\gabri\Desktop\ListaExcC#\UMFG.ProgramacaoIV.Exc5\UMFG.ProgramacaoIV.Exc5\bin\Debug\net7.0\UMFG.ProgramacaoIV.Exc6.pdb
+C:\Users\gabri\Desktop\ListaExcC#\UMFG.ProgramacaoIV.Exc5\UMFG.ProgramacaoIV.Exc5\obj\Debug\net7.0\UMFG.ProgramacaoIV.Exc6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\ListaExcC#\UMFG.ProgramacaoIV.Exc5\UMFG.ProgramacaoIV.Exc5\obj\Debug\net7.0\UMFG.ProgramacaoIV.Exc6.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\ListaExcC#\UMFG.ProgramacaoIV.Exc5\UMFG.ProgramacaoIV.Exc5\obj\Debug\net7.0\UMFG.ProgramacaoIV.Exc6.AssemblyInfo.cs
+C:\Users\gabri\Desktop\ListaExcC#\UMFG.ProgramacaoIV.Exc5\UMFG.ProgramacaoIV.Exc5\obj\Debug\net7.0\UMFG.ProgramacaoIV.Exc6.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\ListaExcC#\UMFG.ProgramacaoIV.Exc5\UMFG.ProgramacaoIV.Exc5\obj\Debug\net7.0\UMFG.ProgramacaoIV.Exc6.dll
+C:\Users\gabri\Desktop\ListaExcC#\UMFG.ProgramacaoIV.Exc5\UMFG.ProgramacaoIV.Exc5\obj\Debug\net7.0\refint\UMFG.ProgramacaoIV.Exc6.dll
+C:\Users\gabri\Desktop\ListaExcC#\UMFG.ProgramacaoIV.Exc5\UMFG.ProgramacaoIV.Exc5\obj\Debug\net7.0\UMFG.ProgramacaoIV.Exc6.pdb
+C:\Users\gabri\Desktop\ListaExcC#\UMFG.ProgramacaoIV.Exc5\UMFG.ProgramacaoIV.Exc5\obj\Debug\net7.0\UMFG.ProgramacaoIV.Exc6.genruntimeconfig.cache
+C:\Users\gabri\Desktop\ListaExcC#\UMFG.ProgramacaoIV.Exc5\UMFG.ProgramacaoIV.Exc5\obj\Debug\net7.0\ref\UMFG.ProgramacaoIV.Exc6.dll

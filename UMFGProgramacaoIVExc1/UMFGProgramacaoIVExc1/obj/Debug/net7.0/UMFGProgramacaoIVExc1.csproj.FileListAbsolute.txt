@@ -1,0 +1,9 @@
+C:\Users\gabri\Desktop\ListaExcC#\UMFGProgramacaoIVExc1\UMFGProgramacaoIVExc1\bin\Debug\net7.0\UMFGProgramacaoIVExc1.exe
+C:\Users\gabri\Desktop\ListaExcC#\UMFGProgramacaoIVExc1\UMFGProgramacaoIVExc1\bin\Debug\net7.0\UMFGProgramacaoIVExc1.dll
+C:\Users\gabri\Desktop\ListaExcC#\UMFGProgramacaoIVExc1\UMFGProgramacaoIVExc1\obj\Debug\net7.0\UMFGProgramacaoIVExc1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\ListaExcC#\UMFGProgramacaoIVExc1\UMFGProgramacaoIVExc1\obj\Debug\net7.0\UMFGProgramacaoIVExc1.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\ListaExcC#\UMFGProgramacaoIVExc1\UMFGProgramacaoIVExc1\obj\Debug\net7.0\UMFGProgramacaoIVExc1.AssemblyInfo.cs
+C:\Users\gabri\Desktop\ListaExcC#\UMFGProgramacaoIVExc1\UMFGProgramacaoIVExc1\obj\Debug\net7.0\UMFGProgramacaoIVExc1.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\ListaExcC#\UMFGProgramacaoIVExc1\UMFGProgramacaoIVExc1\obj\Debug\net7.0\UMFGProgramacaoIVExc1.dll
+C:\Users\gabri\Desktop\ListaExcC#\UMFGProgramacaoIVExc1\UMFGProgramacaoIVExc1\obj\Debug\net7.0\refint\UMFGProgramacaoIVExc1.dll
+C:\Users\gabri\Desktop\ListaExcC#\UMFGProgramacaoIVExc1\UMFGProgramacaoIVExc1\obj\Debug\net7.0\UMFGProgramacaoIVExc1.pdb

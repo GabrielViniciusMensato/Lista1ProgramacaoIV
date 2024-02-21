@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mk9o5ZRNSuSXIrN0hQRM7W6zB0BkAu3BcV+DT+d6lieEOSwoRyj4mBl94LwPV8OIp3L6PPLlR3+ooba9dnifEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabri\\Desktop\\ListaExcC#\\UMFG.ProgramacaoIV.Exc4\\UMFG.ProgramacaoIV.Exc5\\UMFG.ProgramacaoIV.Exc5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

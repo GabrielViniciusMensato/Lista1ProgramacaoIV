@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "UMFG.ProgramacaoIV.Exc7/1.0.0": {
+        "runtime": {
+          "UMFG.ProgramacaoIV.Exc7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UMFG.ProgramacaoIV.Exc7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

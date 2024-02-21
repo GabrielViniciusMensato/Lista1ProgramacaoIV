@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\ListaExcC#\UMFG.Exc.2\UMFG.Exc.2\bin\Debug\net7.0\UMFG.Exc.2.exe
+C:\Users\gabri\Desktop\ListaExcC#\UMFG.Exc.2\UMFG.Exc.2\bin\Debug\net7.0\UMFG.Exc.2.deps.json
+C:\Users\gabri\Desktop\ListaExcC#\UMFG.Exc.2\UMFG.Exc.2\bin\Debug\net7.0\UMFG.Exc.2.runtimeconfig.json
+C:\Users\gabri\Desktop\ListaExcC#\UMFG.Exc.2\UMFG.Exc.2\bin\Debug\net7.0\UMFG.Exc.2.dll
+C:\Users\gabri\Desktop\ListaExcC#\UMFG.Exc.2\UMFG.Exc.2\bin\Debug\net7.0\UMFG.Exc.2.pdb
+C:\Users\gabri\Desktop\ListaExcC#\UMFG.Exc.2\UMFG.Exc.2\obj\Debug\net7.0\UMFG.Exc.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\ListaExcC#\UMFG.Exc.2\UMFG.Exc.2\obj\Debug\net7.0\UMFG.Exc.2.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\ListaExcC#\UMFG.Exc.2\UMFG.Exc.2\obj\Debug\net7.0\UMFG.Exc.2.AssemblyInfo.cs
+C:\Users\gabri\Desktop\ListaExcC#\UMFG.Exc.2\UMFG.Exc.2\obj\Debug\net7.0\UMFG.Exc.2.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\ListaExcC#\UMFG.Exc.2\UMFG.Exc.2\obj\Debug\net7.0\UMFG.Exc.2.dll
+C:\Users\gabri\Desktop\ListaExcC#\UMFG.Exc.2\UMFG.Exc.2\obj\Debug\net7.0\refint\UMFG.Exc.2.dll
+C:\Users\gabri\Desktop\ListaExcC#\UMFG.Exc.2\UMFG.Exc.2\obj\Debug\net7.0\UMFG.Exc.2.pdb
+C:\Users\gabri\Desktop\ListaExcC#\UMFG.Exc.2\UMFG.Exc.2\obj\Debug\net7.0\UMFG.Exc.2.genruntimeconfig.cache
+C:\Users\gabri\Desktop\ListaExcC#\UMFG.Exc.2\UMFG.Exc.2\obj\Debug\net7.0\ref\UMFG.Exc.2.dll

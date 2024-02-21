@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "UMFG.Exc.2/1.0.0": {
+        "runtime": {
+          "UMFG.Exc.2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UMFG.Exc.2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
